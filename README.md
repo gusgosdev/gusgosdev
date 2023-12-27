@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="" /> -->
-   <h3 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h3>
+   <h2 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h2>
 </p>
-
 <p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software.</p>
 
 ###
