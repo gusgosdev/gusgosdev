@@ -3,8 +3,8 @@
 <p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software</p>
 
 <p align="center">
-   <a href="[https://twitch.tv/midudev](https://www.linkedin.com/in/gustavo-ramirez-73b20a207/)" target="_blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://www.linkedin.com/in/gustavo-ramirez-73b20a207/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gusgosdev" height="28px" width="28px" />
    </a>
 </p>
 ###
