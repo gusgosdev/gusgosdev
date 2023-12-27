@@ -1,13 +1,12 @@
-<p align="center" width="300">
-   <!-- <img align="center" width="200" src="" /> -->
-   <h2 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h2>
-</p>
-<p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software.</p>
-
 ###
-<!--
-<h2 align="left">About me</h2>
--->
+<h3 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h3>
+<p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software</p>
+
+<p align="center">
+   <a href="[https://twitch.tv/midudev](https://www.linkedin.com/in/gustavo-ramirez-73b20a207/)" target="_blank" style='margin-right:4px'>
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+   </a>
+</p>
 ###
 <!--
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
@@ -34,7 +33,6 @@
 
 ###
 
-###
 <!--
 **Gus0212/Gus0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
