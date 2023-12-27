@@ -1,8 +1,9 @@
-<h1 align="left">Hi there! 👋 </h1>
+<p align="center" width="300">
+   <!-- <img align="center" width="200" src="" /> -->
+   <h3 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h3>
+</p>
 
-###
-
-<p align="left">My name is Gustavo and I'm a Software developer student, I'm from Perú</p>
+<p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software.</p>
 
 ###
 <!--
@@ -14,7 +15,7 @@
 -->
 ###
 
-<h2 align="left">My skills</h2>
+<h2 align="left">Mis Habilidades</h2>
 
 ###
 
