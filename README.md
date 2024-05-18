@@ -8,7 +8,7 @@
    </a>
    
    <a href="https://github.com/gusgosdev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gusgosdev" height="28px" width="28px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28px" width="28px" alt="LinkedIn logo" />
    </a>
 </p>
 
