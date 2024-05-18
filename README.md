@@ -4,11 +4,11 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/gustavo-ramirez-73b20a207/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gusgosdev" height="28px" width="28px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28px" width="28px" alt="LinkedIn logo" />
    </a>
    
    <a href="https://github.com/gusgosdev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28px" width="28px" alt="LinkedIn logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28px" width="28px" alt="GitHub logo" />
    </a>
 </p>
 
