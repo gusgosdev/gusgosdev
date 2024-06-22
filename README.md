@@ -1,6 +1,6 @@
 ###
 <h3 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</h3>
-<p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software</p>
+<p align="center">Web and Software Developer</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/gustavo-ramirez-73b20a207/" target="_blank">
