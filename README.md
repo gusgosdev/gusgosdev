@@ -1,6 +1,13 @@
-<!-- **************************************** Título y subtítulo **************************************** -->
-<h2 align="center"><strong>¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻</strong></h2>
-<h3 align="center">Software Developer</h3>
+<!-- **************************************** Seguidores y vistas **************************************** -->
+[![GitHub TU_USUARIO](https://img.shields.io/github/followers/gusgosdev?label=Seguidores&style=social)](https://github.com/gusgosdev)&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=gusgosdev&label=Visitas&color=0e75b6&style=flat)&nbsp;
+
+<!-- **************************************** Título **************************************** -->
+<div align="center">
+   
+### ¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻
+#### Software Developer
+</div>
 
 <!-- **************************************** Enlaces LinkedIn y Github **************************************** -->
 <p align="center">
@@ -14,7 +21,7 @@
 </p>
 
 <!-- **************************************** Iconos habilidades **************************************** -->
-<h2 align="left">Mis Habilidades</h2>
+<h2 align="left">Habilidades</h2>
 
 <div align="center">
    <!-- ********** Desarrollo Web ********** -->
