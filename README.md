@@ -4,24 +4,14 @@
 
 <!-- **************************************** Título **************************************** -->
 <div align="center">
-   
-### ¡Hola! 👋🏽 Me llamo Gustavo​ (gusgosdev) 👨🏽‍💻
-#### Software Developer
-</div>
 
-<!-- **************************************** Enlaces LinkedIn y Github **************************************** -->
-<p align="center">
-   <a href="https://www.linkedin.com/in/gustavo-ramirez-73b20a207/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33px" width="33px" alt="LinkedIn logo"/>
-   </a>
-   
-   <a href="https://github.com/gusgosdev" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33px" width="33px" alt="GitHub logo"/>
-   </a>
-</p>
+### ¡Hola! 👋🏽 Mi nombre es Gustavo​ (gusgosdev) 👨🏽‍💻
+#### Junior Software Developer
+</div>
+<p align="center">Soy egresado de la carrera de Diseño y Desarrollo de Software</p>
 
 <!-- **************************************** Iconos habilidades **************************************** -->
-<h2 align="left">Habilidades</h2>
+### Habilidades
 
 <div align="center">
    <!-- ********** Desarrollo Web ********** -->
@@ -36,9 +26,27 @@
    <h3>Backend ⚙️</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"/>
 
+   <!-- ********** Base de datos ********** -->
+   <h3>Base de datos 🗄️</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"/> &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo"/>
+
    <!-- ********** Entorno de desarrollo ********** -->
    <h3>Entorno de Desarrollo 🛠</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"/> &nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"/> &nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="intellij idea logo"/>
 </div>
+
+***
+<!-- **************************************** Enlaces LinkedIn y Github **************************************** -->
+### Encuéntrame en:
+<p align="center">
+   <a href="https://www.linkedin.com/in/gustavo-ramirez-73b20a207/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33px" width="33px" alt="LinkedIn logo"/>
+   </a>
+   
+   <a href="https://github.com/gusgosdev" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33px" width="33px" alt="GitHub logo"/>
+   </a>
+</p>
